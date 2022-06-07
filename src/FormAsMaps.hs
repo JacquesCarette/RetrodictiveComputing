@@ -10,7 +10,7 @@ import FormulaRepr (FormulaRepr(FR))
 
 ------------------------------------------------------------------------------
 -- Representation of formulas as xor-maps of and-maps (of Int)
--- Faster that lists of strings
+-- Faster than lists of strings
 
 -- Values can static or symbolic formulae
 -- Formulae are in "algebraic normal form"
