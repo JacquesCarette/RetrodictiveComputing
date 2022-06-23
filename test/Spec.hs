@@ -1,4 +1,4 @@
-import PEZ 
+import FormAsLists
 import Test.QuickCheck
 
 ------------------------------------------------------------------------------
